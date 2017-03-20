@@ -1,2 +1,0 @@
-2017-03-13 12:23:41,983 [Thread-28:140715576768256] [django.request:152] [base:get_response] [WARNING]- Not Found: /api/plant/test/
-2017-03-13 13:02:10,813 [Thread-3:140025559521024] [django.request:152] [base:get_response] [WARNING]- Not Found: /favicon.ico
